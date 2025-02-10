@@ -1,7 +1,7 @@
 # Park Capsule
 
 <img align="right" width="500" height="200" title="ParkCapsule" src="https://github.com/nishith-02/Parking_Capsule/blob/main/frontend/public/logo.png"/>
-
+  
 ## Features
 
 - Book a slot near your area hassle-free and easy payments
